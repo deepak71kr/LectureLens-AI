@@ -1,8 +1,8 @@
 import cv2
 import os
 import numpy as np
-import tkinter as tk
-from tkinter import filedialog, simpledialog
+# import tkinter as tk
+# from tkinter import filedialog, simpledialog
 from skimage.metrics import structural_similarity as ssim
 
 

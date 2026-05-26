@@ -2,8 +2,8 @@ import cv2
 import os
 import glob
 import numpy as np
-import tkinter as tk
-from tkinter import filedialog, simpledialog
+# import tkinter as tk
+# from tkinter import filedialog, simpledialog
 
 def create_composite_image(input_folder, output_path):
     """

@@ -3,8 +3,8 @@ import sys
 import glob
 import uuid
 import shutil
-import tkinter as tk
-from tkinter import filedialog, simpledialog, messagebox
+# import tkinter as tk
+# from tkinter import filedialog, simpledialog, messagebox
 from PIL import Image
 
 # Import project modules (assumes they sit alongside this file)
